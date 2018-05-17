@@ -1,12 +1,12 @@
 # Site settings
 title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+SEOTitle: Eric Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: ""
+description: "YO"
 keyword: ""
-url: "https://erict7526.github.io/erict7526/"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://erict7526.github.io/"              # your host, for absolute URL
+baseurl: "/erict7526"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
