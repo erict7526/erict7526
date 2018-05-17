@@ -2,9 +2,9 @@
 title: Eric Blog
 SEOTitle: Eric Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: mib123258p@gmail.com
 description: "Everyone yo"
-keyword: ""
+keyword: "blog"
 url: "https://erict7526.github.io/"              # your host, for absolute URL
 baseurl: "/erict7526"         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,11 +12,11 @@ baseurl: "/erict7526"         # for example, '/blog' if your blog hosted on 'hos
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+#weibo_username:     huxpro
+#zhihu_username:     huxpro
+github_username:   erict
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
